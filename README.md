@@ -1,25 +1,41 @@
 # coding_quiz
+
 #coding_quiz
 
 This is a quiz based on HTML and Javascript questions for beginners
 
-Installation
+
+## Installation
+
 Install my-project with npm
 
+```bash
   npm install coding_quiz
   cd coding_quiz
-Usage/Examples
+```
+    
+## Usage/Examples
+
+```javascript
 import Component from 'coding_quiz'
 
 function App() {
   return <Component />
 }
-Contributing
+```
+
+
+## Contributing
+
 Contributions are always welcome!
 
-See contributing.md for ways to get started.
+See `contributing.md` for ways to get started.
 
-Please adhere to this project's code of conduct.
+Please adhere to this project's `code of conduct`.
 
-🔗 Links
-[portfolio
+
+
+
+
+## 🔗 Links
+[![portfolio](https://github.com/jyp1763)
